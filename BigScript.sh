@@ -1,7 +1,7 @@
 #!/bin/bash
-#Author			:Igor Szemela igor@wp.pl	
+#Author			:Igor Szemela	
 #Created on			:21.01.2021		
-#Last Modified by		:Igor Szemela igor@wp.pl
+#Last Modified by		:Igor Szemela
 #Last Modified on		:23.01.2021		
 #Version			:1.0
 #
